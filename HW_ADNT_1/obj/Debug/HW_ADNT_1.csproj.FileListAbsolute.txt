@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\HW_ADNT_1\HW_ADNT_1\bin\Debug\HW_ADNT_1.exe.config
+C:\Users\Admin\source\repos\HW_ADNT_1\HW_ADNT_1\bin\Debug\HW_ADNT_1.exe
+C:\Users\Admin\source\repos\HW_ADNT_1\HW_ADNT_1\bin\Debug\HW_ADNT_1.pdb
+C:\Users\Admin\source\repos\HW_ADNT_1\HW_ADNT_1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\HW_ADNT_1\HW_ADNT_1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\HW_ADNT_1\HW_ADNT_1\obj\Debug\HW_ADNT_1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HW_ADNT_1\HW_ADNT_1\obj\Debug\HW_ADNT_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW_ADNT_1\HW_ADNT_1\obj\Debug\HW_ADNT_1.csproj.Up2Date
+C:\Users\Admin\source\repos\HW_ADNT_1\HW_ADNT_1\obj\Debug\HW_ADNT_1.exe
+C:\Users\Admin\source\repos\HW_ADNT_1\HW_ADNT_1\obj\Debug\HW_ADNT_1.pdb
